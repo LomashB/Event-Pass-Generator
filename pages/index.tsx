@@ -61,12 +61,12 @@ export default function Component() {
         <meta name="description" content="Join us for the Fulvadi Mandir Kalash Dhwaja Rajat Mahotsav from November 10-12, 2024 at Fulvadi Mandir, Jamvanthali, Jamnagar." />
         <meta property="og:title" content="Fulvadi Mandir Kalash Dhwaja Rajat Mahotsav" />
         <meta property="og:description" content="Join us for the Fulvadi Mandir Kalash Dhwaja Rajat Mahotsav from November 10-12, 2024 at Fulvadi Mandir, Jamvanthali, Jamnagar." />
-        <meta property="og:image" content="/fulvadi-invite-web.png" />
+        <meta property="og:image" content="/fulvadi-invite-web-lq.png" />
         <meta property="og:url" content="https://yourwebsite.com" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Fulvadi Mandir Kalash Dhwaja Rajat Mahotsav" />
         <meta name="twitter:description" content="Join us for the Fulvadi Mandir Kalash Dhwaja Rajat Mahotsav from November 10-12, 2024 at Fulvadi Mandir, Jamvanthali, Jamnagar." />
-        <meta name="twitter:image" content="/fulvadi-invite-web.png" />
+        <meta name="twitter:image" content="/fulvadi-invite-web-lq.png" />
       </Head>
       <div className="min-h-screen bg-gradient-to-br from-orange-100 to-orange-200">
         <div className="container mx-auto px-4 py-4">
